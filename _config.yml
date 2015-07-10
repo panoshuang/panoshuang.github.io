@@ -1,0 +1,29 @@
+# Dependencies
+markdown:            redcarpet
+highlighter:         pygments
+
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           /:categories/:title
+relative_permalinks: true
+
+# Setup
+title:               Yuantops' Blog 
+tagline:             'For the better good'
+description:         "Yuantops' Blog. Live like a soldier." 
+url:                 http://blog.yuantops.com
+baseurl:             /
+archiveurl:          /archive.html
+feedurl:             /atom.xml
+tagsurl:             /tags.html
+abouturl:            /about.html
+paginate:            8
+
+# About/contact
+author:
+  name:              Yuan Yuan
+  email:             yuan.tops@gmail.com
+
+# Custom vars
+version:             1.0.0
