@@ -9,10 +9,10 @@ permalink:           /:categories/:title
 relative_permalinks: true
 
 # Setup
-title:               Yuantops' Blog 
-tagline:             'For the better good'
-description:         "Yuantops' Blog. Live like a soldier." 
-url:                 http://blog.yuantops.com
+title:               Panos' Blog
+tagline:             '天道酬勤'
+description:         "这是Panos的个人Blog,这里记录了Panos的代码之路,生活所想..."
+url:                 http://www.pengpai.info
 baseurl:             /
 archiveurl:          /archive.html
 feedurl:             /atom.xml
@@ -22,8 +22,8 @@ paginate:            8
 
 # About/contact
 author:
-  name:              Yuan Yuan
-  email:             yuan.tops@gmail.com
+  name:              Panos
+  email:             panoshuang@gmail.com
 
 # Custom vars
 version:             1.0.0
