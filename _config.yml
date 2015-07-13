@@ -12,7 +12,7 @@ relative_permalinks: true
 title:               Panos' Blog
 tagline:             '天道酬勤'
 description:         "这是Panos的个人Blog,这里记录了Panos的代码之路,生活所想..."
-url:                 http://www.pengpai.info
+url:                 http://blog.pengpai.info
 baseurl:             /
 archiveurl:          /archive.html
 feedurl:             /atom.xml
