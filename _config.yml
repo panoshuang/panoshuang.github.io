@@ -11,7 +11,7 @@ relative_permalinks: true
 # Setup
 title:               Panos' Blog
 tagline:             '天道酬勤'
-description:         "这是Panos的个人Blog,这里记录了Panos的代码之路,生活所想..."
+description:         "Welcome to my blog.It record my learning and thinking..."
 url:                 http://blog.pengpai.info
 baseurl:             /
 archiveurl:          /archive.html
