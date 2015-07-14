@@ -3,13 +3,11 @@ layout: page
 title: About
 ---
 
-##关于我
--  北京邮电大学读研，专业通信工程。  
--  学术之外，我也是个业余的Android码农、Linux用户、Google粉丝。
--  爱好阅读，书本陪我度过很多闲暇时间。
+##About Me
+-  毕业后一直折腾着ios应用开发,偶尔酱油一下下其他.目前在uc折腾着~ ~  
+-  喜欢运动项目,喜欢羽毛球,只是大部分停留在看比赛中,不会玩~ ~,平时也会比较多的阅读,it,旅游,历史杂七杂八的书都喜欢~ ~
 
 *****
 
-##联系我...
-**Email**: yuan.tops#gmail.com (把#换成@)  
-**GitHub**: [yuantops' GitHub](https://github.com/yuantops)  
+##Contact Me...
+**Email**: panoshuang@gmail.com
