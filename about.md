@@ -9,5 +9,5 @@ title: About
 
 *****
 
-##Contact Me...
+##Contact Me
 **Email**: panoshuang@gmail.com
